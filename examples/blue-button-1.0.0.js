@@ -13,4 +13,4 @@
   fePlugins.appendChild(button);
 
   return insertBlueButton;
-})(); // hello
+})();
