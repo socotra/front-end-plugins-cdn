@@ -27,9 +27,9 @@ Using the Socotra API, create a request to POST to `{API_URL}/integrations` whil
 ```
 POST /integrations
 {
-		"type": "fe-plugins",
-		"name": "blue-button",
-		"url": "https://cdn.jsdelivr.net/gh/socotra/front-end-plugins-cdn/examples/blue-button-1.0.0.js",
+  "type": "fe-plugins",
+  "name": "blue-button",
+  "url": "https://cdn.jsdelivr.net/gh/socotra/front-end-plugins-cdn/examples/blue-button-1.0.0.js",
 }
 ```
 
